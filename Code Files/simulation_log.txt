@@ -1,0 +1,20 @@
+No. of starting roadrunners :23
+No. of starting coyote :24
+No. of moves :62
+No. of remaining agents :12
+
+No. of starting roadrunners :23
+No. of starting coyote :24
+No. of moves :71
+No. of remaining agents :4
+
+No. of starting roadrunners :23
+No. of starting coyote :24
+No. of moves :126
+No. of remaining agents :3
+
+No. of starting roadrunners :23
+No. of starting coyote :24
+No. of moves :126
+No. of remaining agents :1
+

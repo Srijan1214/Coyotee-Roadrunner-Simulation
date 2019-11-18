@@ -1,0 +1,4 @@
+r="25"
+c="25"
+no. of initial roadrunners="23"
+no. of initial coyote="24"
